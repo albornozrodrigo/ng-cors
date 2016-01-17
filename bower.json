@@ -1,0 +1,19 @@
+{
+  "name": "ng-cors",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xchilenox/ng-cors",
+  "authors": [
+    "Rodrigo Albornoz <rodrigo.albornoz.f@gmail.com>"
+  ],
+  "description": "CORS support for AngularJS projects.",
+  "license": "MIT",
+  "main": [
+    "./dist/ng-cors.js",
+    "./dist/ng-cors.min.js"
+  ],
+  "keywords": [
+    "AngularJS",
+    "CORS",
+    "cross-origin"
+  ]
+}

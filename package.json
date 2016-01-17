@@ -1,0 +1,29 @@
+{
+  "name": "ng-cors",
+  "version": "0.0.1",
+  "description": "CORS support for AngularJS projects.",
+  "homepage": "https://github.com/xchilenox/ng-cors",
+  "author": "Rodrigo Albornoz <rodrigo.albornoz.f@gmail.com>",
+  "license": "MIT",
+  "main": [
+    "./dist/ng-cors.js",
+    "./dist/ng-cors.min.js"
+  ],
+  "keywords": [
+    "AngularJS",
+    "CORS",
+    "cross-origin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xchilenox/ng-cors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xchilenox/ng-cors/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  }
+}
